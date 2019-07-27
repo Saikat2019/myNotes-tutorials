@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name"> MyNotes</string>
+    <string name="creators_name">Saikat</string>
+    <string name="creators_email">saikat@saikat.com</string>
+
+    <!--strings for swipe tab in main activity-->
+    <string name="notes_tab"> Notes</string>
+    <string name="notifications_tab">Notifications</string>
+
+    <!--Strings for navigation drawer-->
+    <string name="profile">Profile</string>
+    <string name="starred">Starred</string>
+    <string name="help">Help</string>
+    <string name="view_privacy_policy">View Privacy policy</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="donate">Donate us</string>
+    <string name="action_items">Actions</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--for activity new notes-->
+    <string name="add_note">Write Note</string>
+    <string name="save_note">Save</string>
+    <string name="new_note_title">Title</string>
+    <string name="new_note_body">Note</string>
+    <string name="new_note_save">Save</string>
+    <string name="new_note_tool_title">New Note</string>
+    <string name="title_activity_profile">profile title</string>
+
+    <!--for sign in & sign up page-->
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter You Password</string>
+    <string name="forget_password">Forget password? Click to reset</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="no_account">Do not have a account? Create One</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="google_sign">Or,Sign In with Google</string>
+    <string name="privacy_policy">Click here to see Privacy Policy</string>
+
+    <!--for profile activity-->
+    <string name="profile_tool_title">Profile</string>
+    <string name="not_verified">Email is not verified.Click to verify</string>
+    <string name="verified_user">Email is verified</string>
+
+    <string name="internal_storage">Internal storage</string>
+
+    <string name="msg_token_fmt">Msg Token Fmt</string>
+
+
+</resources>
